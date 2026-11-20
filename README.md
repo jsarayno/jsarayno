@@ -23,4 +23,4 @@ Full-stack engineer building business apps that automate & modernize processes. 
 - **Home lab:** Raspberry Pi 5 running Docker, Caddy and Cloudflare-managed SSL
 
 ## Get in touch
-[Email](jonnel.sarayno@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jsarayno/)
+[Email](mailto:jonnel.sarayno@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jsarayno/)
